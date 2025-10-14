@@ -4,8 +4,7 @@
 **⏱️ Time spent:** 8 hours 31 mins (coding + debugging)  
 **🧠 Purpose:** Practice handling lists, user input, and basic program flow in Python.  
 
-After building my first game (Blackjack), I wanted to create something more practical —  
-so I built this simple To-Do List app using the console.
+After building my first game (Blackjack), I wanted to create something more practical —  so I built this simple To-Do List app.
 
 ### ✨ Features
 - Create and name a task list
