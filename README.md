@@ -2,9 +2,9 @@
 
 **📆 Created - End:** September 24th, 2024 - September 26th, 2024.
 
-**🧠 Purpose:** Practice handling lists, user input, and basic program flow in Python. 
-
 **⏱️ Time spent:** 8 hours 31 mins (coding + debugging).
+
+**🧠 Purpose:** Practice handling lists, user input, and basic program flow in Python. 
 
 After building my first game (Blackjack), I wanted to create something more practical —  so I built this simple To-Do List app.
 
