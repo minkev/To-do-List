@@ -14,5 +14,8 @@ After building my first game (Blackjack), I wanted to create something more prac
 - Mark tasks as done ✅
 - Simple console interface with colors and emoji
 
-
+## 🧩 How to Run
+```bash
+pip install termcolor
+pip install emoji
 
