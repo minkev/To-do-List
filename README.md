@@ -12,7 +12,7 @@ After building my first game (Blackjack), I wanted to create something more prac
 - Create and name a task list
 - Add and remove tasks
 - Mark tasks as done ✅
-- Simple console interface with colors and emoji
+
 
 ## 🧩 How to Run
 ```bash
