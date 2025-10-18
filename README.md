@@ -1,4 +1,4 @@
-# 📝 To-Do List (My Second Project)
+# 📝 To-Do List 
 
 **📆 Created - End:** September 24th, 2024 - September 26th, 2024.
 
